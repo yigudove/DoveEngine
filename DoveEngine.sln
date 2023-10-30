@@ -3,10 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33403.182
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DoveEngine", "DoveEngine.vcxproj", "{A6A0A7D9-142A-441F-BF18-6649AB16CF9D}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SampleProject", "Projects\SampleProject\SampleProject.vcxproj", "{A3C3B1E9-ACF0-4A05-916B-22A847A3528B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DoveEngine", "DoveEngine.vcxproj", "{A6A0A7D9-142A-441F-BF18-6649AB16CF9D}"
+EndProject   
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DoveEngineEditor", "DoveEngineEditor\DoveEngineEditor.vcxproj", "{7F737991-4072-434B-A3D8-1B80D0ACF7D9}"
 EndProject
 Global
