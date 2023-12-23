@@ -1,0 +1,3 @@
+[submodule "DoveEngineEditor/vendor/spdlog"]
+	path = DoveEngineEditor/vendor/spdlog
+	url = https://github.com/gabime/spdlog.git
